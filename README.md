@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sadiq,
 - 👀 I’m interested in web development (full stack), app development, AI and Robotics.
 - 🌱 I’m currently studying Bachelor of Computer Science at Heriot-Watt University Dubai Campus.
-- 💞️ I’m looking to collaborate more on web development or Python projects.
+- 💞️ I’m looking to collaborate more on web development and Python projects.
 - 📫 How to reach me: sadiqshabbir4@gmail.com
 
 ![Sadiq's Github Stats](https://github-readme-stats.vercel.app/api?username=msadiq10&show_icons=true)
