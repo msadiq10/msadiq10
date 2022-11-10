@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sadiq,
 - 👀 I’m interested in software development, web development (full stack), app development, AI and Robotics.
-- 🌱 I’m currently studying BSc (Hons) in Computer Science at Heriot-Watt University Dubai Campus.
+- 🌱 I’m currently studying BSc. (Hons.) in Computer Science at Heriot-Watt University Dubai Campus.
 - 💞️ I’m looking to collaborate more on Web Development, Javascript or Python projects.
 - 📫 How to reach me: sadiqshabbir4@gmail.com
 
