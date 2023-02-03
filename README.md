@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate more on Web Development, Javascript or Python projects.
 - 📫 How to reach me: sadiqshabbir4@gmail.com
 
-![Sadiq's Github Stats](https://github-readme-stats.vercel.app/api?username=msadiq10&show_icons=true)
+![Sadiq's Github Stats](https://github-readme-stats.vercel.app/api?username=msadiq10)
 
 <!---
 msadiq10/msadiq10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
