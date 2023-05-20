@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohammed Sadiq Bagalkot</h1>
+<h1 align="center">Mohammed Sadiq Bagalkot</h1>
 <h3 align="center">A recent CS Graduate</h3>
 
 - 👀 I’m interested in software development, AI, data science, cybersecurity and Robotics.
-- 🌱 I recently completed my 'BSc. (Hons.) in Computer Science' degree from Heriot-Watt University Dubai Campus.
-- 💞️ I’m looking to collaborate more on AI/ML, Web/Mobile App Development, Javascript or Python projects.
+- 📖 I recently completed my 'BSc. (Hons.) in Computer Science' degree from Heriot-Watt University Dubai Campus.
+- 🤝I’m looking to collaborate more on AI/ML, Web/Mobile App Development, Javascript or Python projects.
 - 📫 How to reach me: **sadiqshabbir4@gmail.com**
 - 👨‍💻 All of my projects are available at [https://msadiq10.github.io/](https://msadiq10.github.io/)
 
