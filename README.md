@@ -1,7 +1,7 @@
 <h1 align="center">Mohammed Sadiq Bagalkot</h1>
 <h3 align="center">A recent CS Graduate</h3>
 
-- 👀 I’m interested in software development, AI, data science, cybersecurity and Robotics.
+- 👀 I’m interested in Software Development, AI/ML, Data Science, Cybersecurity and Robotics.
 - 📖 I recently completed my 'BSc. (Hons.) in Computer Science' degree from Heriot-Watt University Dubai Campus.
 - 🤝I’m looking to collaborate more on AI/ML, Web/Mobile App Development, Javascript or Python projects.
 - 📫 How to reach me: **sadiqshabbir4@gmail.com**
