@@ -20,4 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msadiq10&show_icons=true&locale=en&layout=compact" alt="msadiq10" /></p>
 
 <br></br>
-![snake gif](https://github.com/msadiq10/msadiq10/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/msadiq10/msadiq10/blob/output/github-contribution-grid-snake-dark.svg)
